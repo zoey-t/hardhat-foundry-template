@@ -1,12 +1,6 @@
 **#** **Hardhat Foundry Template**
 
-This repo use the default file structure of hardhat.
-
-
-
-On top of this, foundry support is added.
-
-
+Solidity template for hardhat with foundry
 
 Packages and Modules Added: 
 
